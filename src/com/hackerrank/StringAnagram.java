@@ -10,7 +10,7 @@ package com.hackerrank;
 public class StringAnagram {
 
 	public static void main(String[] args) {
-		
+		System.out.println(findAnagramChanges("ABC"));
 	}
 	
 	/**
@@ -18,7 +18,7 @@ public class StringAnagram {
 	 * find the anagram for the given string
 	 * @param test The given string
 	 */
-	public static int findAnagramChanges(String test) {
+	public static int findAnagramChanges(String testString) {
 		return 0;
 	}
 }
